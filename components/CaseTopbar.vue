@@ -1,0 +1,37 @@
+<template>
+  <div class="topbar text-skin-primary">
+    <div class="">
+      <div class="flex items-center uppercase mb-4 text-sm">
+        <svgassets name="back-arrow" class="mr-3" /> Back
+      </div>
+      <div class="left-side">
+        <div class="logo">
+          <!-- <img src="https://res.cloudinary.com/griffintech/image/upload/v1635981557/ui-portfolio/barney_dlli4f.svg" alt="Barney" /> -->
+          <svgassets name="logo" />
+        </div>
+      </div>
+    </div>
+  </div>
+</template>
+
+<style>
+  .topbar {
+    @apply flex justify-between items-center mx-40 bg-gray-100;
+  }
+
+  .left-side {
+    @apply flex items-center;
+  }
+
+  .right-side {
+    @apply -mb-4;
+  }
+
+  .logo {
+    @apply mr-6;
+  }
+
+  .name {
+    @apply uppercase;
+  }
+</style>
