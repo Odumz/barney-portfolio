@@ -13,6 +13,6 @@
   .underlined {
     @apply underline;
     text-decoration-color: #CAA519;
-    text-decoration-thickness: 3px;
+    text-decoration-thickness: 2.5px;
   }
 </style>

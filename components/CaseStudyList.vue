@@ -12,6 +12,6 @@
 
 <style>
   .case-study {
-    @apply grid grid-cols-2 gap-4 py-12 justify-items-center h-screen;
+    @apply grid grid-cols-2 gap-4 py-12 justify-items-center;
   }
 </style>
