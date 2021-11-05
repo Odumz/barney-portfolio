@@ -10,7 +10,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
   .case-study {
     @apply grid lg:grid-cols-2 gap-4 my-12 mx-auto justify-center;
   }

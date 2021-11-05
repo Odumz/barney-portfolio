@@ -18,7 +18,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
   .topbar {
     @apply md:flex  justify-between items-center lg:mx-40 md:mx-20 mx-10 bg-gray-100 overflow-hidden;
   }

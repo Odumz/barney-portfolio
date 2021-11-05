@@ -1,5 +1,5 @@
 <template>
-  <div class="topbar text-skin-primary">
+  <div class="topbar text-skin-primary bg-skin-secondary-accent">
     <div class="">
       <div class="">
         <NuxtLink to="/" class="flex items-center uppercase mb-4 text-sm">
@@ -16,9 +16,9 @@
   </div>
 </template>
 
-<style>
+<style scoped>
   .topbar {
-    @apply flex justify-between items-center lg:mx-40 md:mx-20 mx-10 bg-gray-100;
+    @apply flex justify-between items-center lg:mx-40 md:mx-20 mx-10;
   }
 
   .left-side {

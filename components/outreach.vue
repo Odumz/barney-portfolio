@@ -9,7 +9,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
   .underlined {
     @apply underline;
     text-decoration-color: #CAA519;

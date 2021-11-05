@@ -12,7 +12,7 @@
 export default {}
 </script>
 
-<style>
+<style scoped>
   fontface {
     font-family: 'Rubik', sans-serif;
   }

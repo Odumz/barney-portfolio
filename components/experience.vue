@@ -1,6 +1,6 @@
 <template>
   <div class="text-skin-primary lg:px-40 md:px-20 px-10 pt-20">
-    <h1 class="text-2xl font-bold">Experience</h1>
+    <h1 class="text-3xl font-bold">Experience</h1>
     <div class="md:grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-3">
       <div class="resume">
         <a href="" class="links">Visit LinkedIn</a>
@@ -22,7 +22,7 @@
   </div>
 </template>
 
-<style>
+<style scoped>
   .links {
     @apply flex my-3;
   }
