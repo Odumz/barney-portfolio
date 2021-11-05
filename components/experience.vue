@@ -40,7 +40,7 @@
   }
 
   .title {
-    @apply col-span-2 lg:pl-10 xl:pl-16 2xl:pl-24;
+    @apply col-span-2 md:pl-10 xl:pl-16 2xl:pl-24;
   }
 
   .past {
@@ -48,6 +48,6 @@
   }
 
   .history {
-    @apply grid grid-cols-3 lg:grid-cols-4 gap-y-1 my-3 md:col-span-2;
+    @apply grid grid-cols-4 gap-y-1 my-3 md:col-span-2;
   }
 </style>

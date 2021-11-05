@@ -10,8 +10,10 @@
         <p class="-mt-2">inyangsam</p>
       </div>
     </div>
-    <div class="right-side">
-      <a href="" class="uppercase">About me</a>
+    <div class="right-side uppercase">
+      <NuxtLink to="/about">
+        About me
+      </NuxtLink>
     </div>
   </div>
 </template>
