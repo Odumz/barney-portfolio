@@ -1,8 +1,10 @@
 <template>
   <div class="topbar text-skin-primary">
     <div class="">
-      <div class="flex items-center uppercase mb-4 text-sm">
-        <svgassets name="back-arrow" class="mr-3" /> Back
+      <div class="">
+        <NuxtLink to="/" class="flex items-center uppercase mb-4 text-sm">
+          <svgassets name="back-arrow" class="mr-3" /> Back
+        </NuxtLink>
       </div>
       <div class="left-side">
         <div class="logo">
@@ -16,7 +18,7 @@
 
 <style>
   .topbar {
-    @apply flex justify-between items-center mx-40 bg-gray-100;
+    @apply flex justify-between items-center lg:mx-40 md:mx-20 mx-10 bg-gray-100;
   }
 
   .left-side {

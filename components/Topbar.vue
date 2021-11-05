@@ -18,7 +18,7 @@
 
 <style>
   .topbar {
-    @apply flex justify-between items-center mx-40 bg-gray-100;
+    @apply md:flex  justify-between items-center lg:mx-40 md:mx-20 mx-10 bg-gray-100 overflow-hidden;
   }
 
   .left-side {
