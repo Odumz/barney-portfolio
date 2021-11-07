@@ -5,7 +5,7 @@
     <!-- <Tutorial/> -->
     <!-- <Experience class="bg-white pb-7" /> -->
     <brief class="bg-white py-10" />
-    <Skills class="bg-white py-10 pb-28" />
+    <taxi class="bg-white pt-10 pb-32" />
   </div>
 </template>
 

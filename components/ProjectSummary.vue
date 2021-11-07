@@ -1,16 +1,16 @@
 <template>
   <div class="text-white lg:mx-40 md:mx-20 mx-10 grid gap-y-3 mt-14">
     <h1 class="text-5xl font-medium mb-6">SB Taxi App</h1>
-    <div class="flex pb-4">
-      <div class="w-2/9 grid">
+    <div class="sm:flex sm:mb-10">
+      <div class="w-2/9 grid mb-3">
         <span class="title">role</span>
         <span>UI/UX Designer</span>
       </div>
-      <div class="w-2/7 grid">
+      <div class="w-2/7 grid mb-3">
         <span class="title">tools</span>
         <span>Figma</span>
       </div>
-      <div class=" grid">
+      <div class="grid">
         <span class="title">date</span>
         <span>September, 2021</span>
       </div>

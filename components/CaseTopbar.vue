@@ -1,5 +1,5 @@
 <template>
-  <div class="topbar text-skin-primary bg-skin-secondary-accent">
+  <div class="topbar text-skin-primary">
     <div class="">
       <div class="">
         <NuxtLink to="/" class="flex items-center uppercase mb-4 text-sm">
