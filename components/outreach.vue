@@ -14,5 +14,6 @@
     @apply underline;
     text-decoration-color: #CAA519;
     text-decoration-thickness: 2.5px;
+    text-underline-offset: 0.2em;
   }
 </style>

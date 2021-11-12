@@ -6,7 +6,7 @@
         <p>SB Taxi is attempting to establish itself in Nigeria, and they sought my expertise in designing an efficient way to address issues such as office commute, rising car costs, and dealing with the ever-increasing difficulties of public transportation. SB Taxi was established to address this issue by providing an active carpooling service that is efficient, dependable, and profitable.</p>
       </div>
       <div class="image">
-        <svgassets name="zuri" />
+        <img src="https://res.cloudinary.com/griffintech/image/upload/v1636759511/barney/case_-_SB_Taxi_App_vaiy1j.png" alt="">
       </div>
     </div>
   </div>
@@ -32,6 +32,6 @@
 
 
   .image {
-    @apply lg:w-1/2 lg:-mt-16 grid justify-items-center;
+    @apply lg:w-5/9 lg:-mt-48 grid justify-items-center;
   }
 </style>

@@ -8,7 +8,8 @@ function withOpacity(variableName) {
 }
 
 module.exports = {
-  purge: [],
+  mode: 'jit',
+  purge: ['./**/*.{vue, js, jsx}'],
   darkMode: 'class', // or 'media' or 'class'
   theme: {
     extend: {
