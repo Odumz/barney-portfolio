@@ -5,7 +5,9 @@
     <!-- <Tutorial/> -->
     <!-- <Experience class="bg-white pb-7" /> -->
     <brief class="bg-white py-10" />
-    <taxi class="bg-white pt-10 pb-32" />
+    <!-- <taxi class="bg-white pt-10 pb-32" /> -->
+    <krypto class="bg-white pt-10 pb-32" />
+    <krypto-footer />
   </div>
 </template>
 

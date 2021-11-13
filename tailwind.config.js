@@ -20,6 +20,7 @@ module.exports = {
           inverted: withOpacity('--color-text-inverted'),
           primary: withOpacity('--color-primary'),
           secondary: withOpacity('--color-secondary'),
+          tertiary: withOpacity('--color-tertiary'),
           'secondary-accent': withOpacity('--color-secondary-accent'),
         }
       },
@@ -53,6 +54,7 @@ module.exports = {
           'button-accent-hover': withOpacity('--color-button-accent-hover'),
           'button-muted': withOpacity('--color-button-muted'),
           secondary: withOpacity('--color-secondary'),
+          tertiary: withOpacity('--color-tertiary'),
           'secondary-accent': withOpacity('--color-secondary-accent'),
         }
       }
