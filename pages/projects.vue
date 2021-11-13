@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-skin-secondary-accent">
+  <div class="font-face bg-skin-secondary-accent">
     <ProjectTopbar class="pt-14" />
     <ProjectSummary class="mt-7 mb-16" />
     <!-- <Tutorial/> -->
@@ -16,8 +16,8 @@ export default {}
 </script>
 
 <style scoped>
-  fontface {
-    font-family: 'Rubik', sans-serif;
+  .fontface {
+    font-family: 'Rubik';
   }
 
 </style>

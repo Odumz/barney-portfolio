@@ -1,6 +1,6 @@
 <template>
   <div class="bg-skin-tertiary">
-    <div class="info">
+    <div class="">
       <div class="info-arch">
         <img src="https://res.cloudinary.com/griffintech/image/upload/v1636807055/barney/case-KryptoNFT-footer_dguajr.png" alt="">
       </div>
