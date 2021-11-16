@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-100">
+  <div class="fontface bg-gray-100">
     <Topbar class="pt-14" />
     <Intro class="my-7" />
     <!-- <Tutorial/> -->
@@ -9,12 +9,23 @@
 </template>
 
 <script>
-export default {}
+export default {
+  head: {
+    title: 'Home',
+    meta: [
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'I am passionately driven, result oriented and an exceptional guy with background in fashion, corporate communication, photography and product design.'
+      }
+    ],
+  }
+}
 </script>
 
 <style scoped>
-  fontface {
-    font-family: 'Rubik', sans-serif;
+  .fontface {
+    font-family: Rubik, sans-serif;
   }
 
 </style>

@@ -3,7 +3,7 @@
     <div class="info">
       <h1 class="text-3xl font-bold">Informational Architecture</h1>
       <div class="info-arch">
-        <img src="https://res.cloudinary.com/griffintech/image/upload/v1636759297/barney/case-sbTaxi-App-info-architecture_w1atgz.png" alt="">
+        <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063773/barney/case-sbTaxi-App-info-architecture_ku5vkk.png" alt="">
       </div>
     </div>
     <div class="challenges">
@@ -14,7 +14,7 @@
           <p class="challenge-text">Furthermore, providing a reservation system required a systematic technique to allow users to accept whom they want to pick them up (i.e. The user might require a van and not a standard car for their trip and by way of reservation get what they want)</p>
         </div>
         <div class="challenge-image">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1636759293/barney/case-sbTaxi-App-challenges_o80nqs.png" alt="">
+          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063768/barney/case-sbTaxi-App-challenges_kraudp.png" alt="">
         </div>
       </div>
     </div>
@@ -25,8 +25,8 @@
           <p class="user-exp-text">I was expected to come up with an effective solution to make things easier for the User and to improve the User experience. As a result, I used a GPS-based design to allow the user know about and book the car conveniently, as well as manage their booking.</p>
         </div>
         <div class="ux-image">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1636759308/barney/case-sbTaxi-App-iPhoneone_ldvzfz.png" alt="">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1636759292/barney/case-sbTaxi-App-iPhonetwo_ppaejd.png" alt="" class="w-2/3 mb-3 md:-ml-32 -ml-20">
+          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063784/barney/case-sbTaxi-App-iPhoneone_jeerry.png" alt="">
+          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063775/barney/case-sbTaxi-App-iPhonetwo_mkfhkv.png" alt="" class="w-2/3 mb-3 md:-ml-32 -ml-20">
         </div>
       </div>
       <div class="ux">
@@ -35,8 +35,8 @@
           <p class="user-exp-text">I was able to optimize the UX for adding a card and a wallet feature by making simple changes and adding a few features, such as sharing a ride with other users, allowing users to see the call feature, and personalised text feature and the feedback was remarkable.</p>
         </div>
         <div class="ux-image">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1636759298/barney/case-sbTaxi-App-iPhonethree_z7mmum.png" alt="">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1636759292/barney/case-sbTaxi-App-iPhonefour_fd5ehx.png" alt="" class="w-5/6 mb-3 md:-ml-28 -ml-16">
+          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063779/barney/case-sbTaxi-App-iPhonethree_nfrumf.png" alt="">
+          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063773/barney/case-sbTaxi-App-iPhonefour_umzi3q.png" alt="" class="w-5/6 mb-3 md:-ml-28 -ml-16">
         </div>
       </div>
     </div>

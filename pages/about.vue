@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-gray-100">
+  <div class="fontface bg-gray-100">
     <CaseTopbar class="pt-14" />
     <CaseSummary class="mt-7 mb-16" />
     <!-- <Tutorial/> -->
@@ -10,12 +10,23 @@
 </template>
 
 <script>
-export default {}
+export default {
+  head: {
+    title: 'About',
+    meta: [
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'My name is Barnabas Olayinka Inyangsam, and I\'m a product designer who focuses on creating beautiful experiences for people that improve and enhance how we live.'
+      }
+    ],
+  }
+}
 </script>
 
 <style scoped>
-  fontface {
-    font-family: 'Rubik', sans-serif;
+  .fontface {
+    font-family: Rubik, sans-serif;
   }
 
 </style>
