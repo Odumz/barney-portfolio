@@ -4,14 +4,14 @@
     <div class="grid sm:grid-cols-2 gap-4">
       <div class="links">
         <ul class="my-3">
-          <li class="mb-2">
-            <a href="">Behance</a>
+          <li class="mb-3">
+            <a href="" class="underlined">Behance</a>
           </li>
-          <li class="my-2">
-            <a href="">Dribble</a>
+          <li class="my-3">
+            <a href="" class="underlined">Dribble</a>
           </li>
-          <li class="my-2">
-            <a href="">Instagram</a>
+          <li class="my-3">
+            <a href="" class="underlined">Instagram</a>
           </li>
         </ul>
       </div>
@@ -112,5 +112,12 @@
 
   .title {
     @apply text-2xl font-bold mb-2;
+  }
+
+  .underlined {
+    @apply underline;
+    text-decoration-color: #CAA519;
+    text-decoration-thickness: 2.5px;
+    text-underline-offset: 0.2em;
   }
 </style>
