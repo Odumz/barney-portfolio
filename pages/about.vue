@@ -12,7 +12,7 @@
 <script>
 export default {
   head: {
-    title: 'About',
+    title: 'About Me - Barney!',
     meta: [
       {
         hid: 'description',

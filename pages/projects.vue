@@ -12,7 +12,18 @@
 </template>
 
 <script>
-export default {}
+export default {
+  head: {
+    title: 'Projects - Barney!',
+    meta: [
+      {
+        hid: 'description',
+        name: 'description',
+        content: 'Good design, in my opinion, should be usable, straightforward, and appealing, and should be the outcome of a thorough understanding of the target user.'
+      }
+    ],
+  }
+}
 </script>
 
 <style scoped>
