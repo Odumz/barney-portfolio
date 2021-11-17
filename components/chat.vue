@@ -14,8 +14,8 @@
       </div>
     </div>
     <div class="take-away">
-      <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063767/barney/case-ZuriChat-logo_v1bamc.png" alt="" class="w-2/7">
-      <p class="take-away-text">Final Logo Design</p>
+      <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063767/barney/case-ZuriChat-logo_v1bamc.png" alt="" class="md:w-3/7 w-5/7">
+      <p class="take-away-text md:pl-4">Final Logo Design</p>
     </div>
     <div class="pt-10">
       <div class="ux">
@@ -78,6 +78,6 @@
 }
 
 .take-away-text {
-  @apply text-justify leading-relaxed -mt-6 tracking-widest text-gray-500;
+  @apply text-justify leading-relaxed -mt-6 md:tracking-widest sm:tracking-wider text-gray-500;
 }
 </style>
