@@ -3,13 +3,5 @@
     <h1 class="text-5xl font-medium -mb-2">Product Design</h1>
     <h1 class="text-5xl font-medium -mb-2">UI + UX</h1>
     <h1 class="text-5xl font-medium mb-6">Creative Direction</h1>
-    <!-- <p>
-      A product designer focused on building beautiful experiences for people that enhances and improves how we live. I am passionately driven, result oriented and an exceptional guy with background in fashion, corporate communication, photography and product design.
-    </p>
-    <p class="text-skin-secondary font-medium justify-self-end pb-8">
-      <NuxtLink to="/about">
-        Know more about me
-      </NuxtLink>
-    </p> -->
   </div>
 </template>

@@ -1,17 +1,5 @@
 <template>
   <div class="lg:px-40 md:px-20 px-10 text-skin-primary">
-    <!-- <div class="challenges">
-      <div class="challenge">
-        <div class="challenge-description">
-          <h1 class="text-3xl font-bold text-left my-2">Challenges</h1>
-          <p class="challenge-text">Managing the driver's profile, which also curates the details about the vehicle, was one of the most constructive difficulties I had when designing SB Taxi.</p>
-          <p class="challenge-text">Furthermore, providing a reservation system required a systematic technique to allow users to accept whom they want to pick them up (i.e. The user might require a van and not a standard car for their trip and by way of reservation get what they want)</p>
-        </div>
-        <div class="challenge-image">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063768/barney/case-sbTaxi-App-challenges_kraudp.png" alt="">
-        </div>
-      </div>
-    </div> -->
     <div class="user-exp">
       <div class="ux">
         <div class="ux-description">
@@ -26,7 +14,6 @@
       </div>
     </div>
     <div class="take-away">
-      <!-- <h1 class="text-3xl font-bold my-2">Key Take-away</h1> -->
       <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063767/barney/case-ZuriChat-logo_v1bamc.png" alt="" class="w-2/7">
       <p class="take-away-text">Final Logo Design</p>
     </div>

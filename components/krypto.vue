@@ -1,11 +1,5 @@
 <template>
   <div class="lg:px-40 md:px-20 px-10 text-skin-primary">
-    <!-- <div class="info">
-      <h1 class="text-3xl font-bold">Informational Architecture</h1>
-      <div class="info-arch">
-        <img src="https://res.cloudinary.com/griffintech/image/upload/v1636759297/barney/case-sbTaxi-App-info-architecture_w1atgz.png" alt="">
-      </div>
-    </div> -->
     <div class="designs">
       <div class="design">
         <div class="design-description">
@@ -28,25 +22,9 @@
         </div>
         <div class="design-image">
           <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063765/barney/case-KryptoNFT-keytakeaway_eazs2y.png" alt="" class="rounded">
-          <!-- <img src="https://res.cloudinary.com/griffintech/image/upload/v1636759292/barney/case-sbTaxi-App-iPhonetwo_ppaejd.png" alt="" class="w-2/3 mb-3 md:-ml-32 -ml-20"> -->
         </div>
       </div>
-      <!-- <div class="ux">
-        <div class="ux-description lg:order-1">
-          <p class="user-exp-text">The app's main goal was to provide a more dynamic, seamless digital riding experience. That meant I had to reevaluate how taxis were typically contacted. The selection of car features, where users could actively decide the quality of assistance they wanted, was one of the areas where I had to fully redesign.</p>
-          <p class="user-exp-text">I was able to optimize the UX for adding a card and a wallet feature by making simple changes and adding a few features, such as sharing a ride with other users, allowing users to see the call feature, and personalised text feature and the feedback was remarkable.</p>
-        </div>
-        <div class="ux-image">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1636759298/barney/case-sbTaxi-App-iPhonethree_z7mmum.png" alt="">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1636759292/barney/case-sbTaxi-App-iPhonefour_fd5ehx.png" alt="" class="w-5/6 mb-3 md:-ml-28 -ml-16">
-        </div>
-      </div> -->
     </div>
-    <!-- <div class="take-away">
-      <h1 class="text-3xl font-bold my-2">Key Take-away</h1>
-      <p class="take-away-text">Working on this project provided me with firsthand knowledge of how taxi operations are handled, their process hierarchies, and relevant context for framing challenges and solutions for cab hailing-related solutions.</p>
-      <img src="" alt="">
-    </div> -->
   </div>
 </template>
 

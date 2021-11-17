@@ -2,7 +2,6 @@
   <div class="topbar">
     <div class="left-side">
       <div class="logo">
-        <!-- <img src="https://res.cloudinary.com/griffintech/image/upload/v1635981557/ui-portfolio/barney_dlli4f.svg" alt="Barney" /> -->
         <NuxtLink to="/" class="flex items-center uppercase mb-4 text-sm">
           <svgassets name="logo" />
         </NuxtLink>
