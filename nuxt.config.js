@@ -27,7 +27,12 @@ export default {
         hid: 'og:title',
         property: 'og:title',
         content: 'Barney'
-      }
+      },
+      {
+        hid: 'og:image',
+        property: 'og:image',
+        content: 'https://res.cloudinary.com/griffintech/image/upload/v1637172936/barney/barneys-logo_oztll8.png'
+      },
     ],
     link: [
       { rel: 'icon', type: 'image/x-icon', href: 'https://res.cloudinary.com/griffintech/image/upload/v1637172894/barney/favicon_hlnc0y.ico' },

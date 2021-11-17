@@ -15,7 +15,7 @@
         <p class="mt-2">They had a reference website and wanted it to look exactly like it with just a few color changes.</p>
       </template>
       <template #image>
-        <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063762/barney/case-ZuriChat-brief_hqdgn3.png" alt="" class="mt-7">
+        <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063765/barney/case-KryptoNFT-brief_uykowk.png" alt="" class="mt-7">
       </template>
     </brief>
     <krypto class="bg-white pt-10 lg:pb-32 md:pb-24 pb-10" />
