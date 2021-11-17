@@ -1,16 +1,15 @@
 <template>
-  <div class="grid grid-cols-1 overflow-hidden">
+  <div class="grid overflow-hidden">
     <div class="img-thumb">
       <!-- <img :src="image.link" alt="image.title"> -->
-      <svgassets name="taxi" />
+      <!-- <svgassets name="taxi" /> -->
+      <slot name="image"></slot>
     </div>
     <div class="content">
-      <h2 class="font-medium pt-1">{{ title }}
-       <NuxtLink to="/project-krypto-nft">
-        Case Title
-       </NuxtLink>
+      <h2 class="font-medium pt-1">
+        <slot name="title"></slot>
       </h2>
-      <p class="text-gray-400 text-sm">{{ description }} Some other texts</p>
+      <p class="text-gray-400 text-sm"><slot name="description"></slot></p>
     </div>
   </div>
 </template>

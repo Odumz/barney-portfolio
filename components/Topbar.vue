@@ -29,7 +29,7 @@
   }
 
   .right-side {
-    @apply sm:-mb-4 uppercase;
+    @apply uppercase;
   }
 
   .logo {
@@ -37,6 +37,6 @@
   }
 
   .name {
-    @apply uppercase;
+    @apply uppercase -mt-3;
   }
 </style>
