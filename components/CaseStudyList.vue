@@ -3,19 +3,21 @@
     <h1 class="text-3xl font-bold">Case Studies</h1>
     <div class="case-study">
       <div v-for="casebrief in cases" :key="casebrief.image" >
-        <CaseStudy class="case">
-          <template #image>
-            <img :src="casebrief.image" alt="" class="w-96">
-          </template>
-          <template #title>
-            <nuxt-link :to="{ path: casebrief.link }">
-              {{ casebrief.title }}
-            </nuxt-link>
-          </template>
-          <template #description>
-            {{ casebrief.description }}
-          </template>
-        </CaseStudy>
+        <div class="case hover:shadow-lg rounded p-3">
+          <CaseStudy class="">
+            <template #image>
+              <img :src="casebrief.image" alt="" class="w-96">
+            </template>
+            <template #title>
+              <nuxt-link :to="{ path: casebrief.link }">
+                {{ casebrief.title }}
+              </nuxt-link>
+            </template>
+            <template #description>
+              {{ casebrief.description }}
+            </template>
+          </CaseStudy>
+        </div>
       </div>
     </div>
   </div>
@@ -62,6 +64,6 @@
   }
 
   .case {
-    @apply m-3;
+    @apply m-3 grid justify-items-center;
   }
 </style>

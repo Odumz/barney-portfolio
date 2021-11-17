@@ -9,7 +9,7 @@
       <div class="left-side">
         <div class="logo">
           <NuxtLink to="/" class="flex items-center uppercase mb-4 text-sm">
-            <svgassets name="logo-white" />
+            <img src="https://res.cloudinary.com/griffintech/image/upload/v1637173284/barney/barneys-logo-white_qd3syg.png" alt="" class="w-16">
           </NuxtLink>
         </div>
       </div>

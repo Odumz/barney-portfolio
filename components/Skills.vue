@@ -120,4 +120,8 @@
     text-decoration-thickness: 2.5px;
     text-underline-offset: 0.2em;
   }
+
+  .underlined:hover {
+    text-underline-offset: 0.3em;
+  }
 </style>
