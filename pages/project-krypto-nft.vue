@@ -26,7 +26,7 @@
 <script>
 export default {
   head: {
-    title: 'Projects - Barney!',
+    title: 'Krypto NFT - Barney!',
     meta: [
       {
         hid: 'description',

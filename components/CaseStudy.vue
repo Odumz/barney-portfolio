@@ -2,7 +2,6 @@
   <div class="grid grid-cols-1 overflow-hidden">
     <div class="img-thumb">
       <!-- <img :src="image.link" alt="image.title"> -->
-      <!-- <img src="https://res.cloudinary.com/griffintech/image/upload/v1635904513/ui-portfolio/Logo_jwpmll.svg" alt=""> -->
       <svgassets name="taxi" />
     </div>
     <div class="content">

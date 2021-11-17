@@ -5,7 +5,7 @@
       A product designer focused on building beautiful experiences for people that enhances and improves how we live. I am passionately driven, result oriented and an exceptional guy with background in fashion, corporate communication, photography and product design.
     </p>
     <p class="text-skin-secondary font-medium justify-self-end pb-9">
-      <NuxtLink to="/about">
+      <NuxtLink to="/about" class=" hover:opacity-80">
         Know more about me
       </NuxtLink>
     </p>

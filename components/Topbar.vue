@@ -12,7 +12,7 @@
       </div>
     </div>
     <div class="right-side">
-      <NuxtLink to="/about">
+      <NuxtLink to="/about" class="hover:opacity-80">
         About me
       </NuxtLink>
     </div>
