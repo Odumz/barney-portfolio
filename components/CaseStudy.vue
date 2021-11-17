@@ -7,7 +7,7 @@
     </div>
     <div class="content">
       <h2 class="font-medium pt-1">{{ title }}
-       <NuxtLink to="/projects">
+       <NuxtLink to="/project-krypto-nft">
         Case Title
        </NuxtLink>
       </h2>

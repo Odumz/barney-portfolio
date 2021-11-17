@@ -22,6 +22,7 @@ module.exports = {
           secondary: withOpacity('--color-secondary'),
           tertiary: withOpacity('--color-tertiary'),
           'secondary-accent': withOpacity('--color-secondary-accent'),
+          'tertiary-accent': withOpacity('--color-tertiary-accent')
         }
       },
       width: {
@@ -56,6 +57,7 @@ module.exports = {
           secondary: withOpacity('--color-secondary'),
           tertiary: withOpacity('--color-tertiary'),
           'secondary-accent': withOpacity('--color-secondary-accent'),
+          'tertiary-accent': withOpacity('--color-tertiary-accent'),
         }
       }
     },

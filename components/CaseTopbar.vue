@@ -2,7 +2,7 @@
   <div class="topbar text-skin-primary">
     <div class="">
       <div class="">
-        <NuxtLink to="/" class="flex items-center uppercase mb-4 text-sm">
+        <NuxtLink to="/" class="flex uppercase mb-4 text-sm">
           <svgassets name="back-arrow" class="mr-3" /> Back
         </NuxtLink>
       </div>
