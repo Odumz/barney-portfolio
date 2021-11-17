@@ -2,8 +2,8 @@
   <div class="topbar text-skin-primary">
     <div class="">
       <div class="">
-        <NuxtLink to="/" class="flex uppercase mb-4 text-sm">
-          <svgassets name="back-arrow" class="mr-3" /> Back
+        <NuxtLink to="/" class="flex items-center uppercase mb-4 text-sm">
+          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637173284/barney/back-arrow_ly213j.png" class="w-1/7" alt=""><span class="pl-3"> Back</span>
         </NuxtLink>
       </div>
       <div class="left-side">
