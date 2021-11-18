@@ -1,7 +1,7 @@
 <template>
   <div class="text-skin-primary lg:px-70 md:px-20 px-10 pt-20">
     <h1 class="text-3xl font-bold">Experience</h1>
-    <div class="md:grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 mt-3">
+    <div class="md:grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-y-4 mt-3">
       <div class="resume">
         <a href="https://www.linkedin.com/in/inyangsam-barnabas-47258198" target="_blank" class="links underlined">Visit LinkedIn</a>
         <a href="https://drive.google.com/file/d/1eIUZtGIGdJgnIeCNN5JTPiKsd7bL6Lux/view?usp=drivesdk" target="_blank" class="links underlined">View Resume</a>
@@ -63,6 +63,6 @@
   }
 
   .history {
-    @apply grid grid-cols-4 gap-y-1 my-3 md:col-span-2;
+    @apply grid grid-cols-4 gap-1 my-3 md:col-span-2 lg:col-span-3;
   }
 </style>
