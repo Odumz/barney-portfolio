@@ -12,7 +12,7 @@
         <p class="mt-2">The client desired a simple, slick, and memorable identity that reflected their ideals and could be scaled adequately for marketing collateral and clients.</p>
       </template>
       <template #image>
-        <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063762/barney/case-ZuriChat-brief_hqdgn3.png" alt="" class="mt-7">
+        <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063762/barney/case-ZuriChat-brief_hqdgn3.png" alt="" class="my-auto">
       </template>
     </brief>
     <chat class="bg-white pt-10 pb-32" />
