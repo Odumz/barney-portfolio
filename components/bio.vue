@@ -1,5 +1,5 @@
 <template>
-  <div class="lg:px-40 md:px-20 px-10 text-skin-primary">
+  <div class="lg:px-70 md:px-20 px-10 text-skin-primary">
     <h1 class="text-3xl font-bold">About me</h1>
     <p class="bio-text">My name is Barnabas Olayinka Inyangsam, and I'm a product designer who focuses on creating beautiful experiences for people that improve and enhance how we live. Currently resides in the city of Lagos, Nigeria. I enjoy assisting others, understanding their needs and behaviors, and bringing their ideas to reality.</p>
     <p class="bio-text">Good design, in my opinion, should be usable, straightforward, and appealing, and should be the outcome of a thorough understanding of the target user. I enjoy learning new things while perfecting and growing my trade and challenging myself to improve.</p>

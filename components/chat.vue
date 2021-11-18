@@ -1,5 +1,5 @@
 <template>
-  <div class="lg:px-40 md:px-20 px-10 text-skin-primary">
+  <div class="lg:px-70 md:px-20 px-10 text-skin-primary">
     <div class="user-exp">
       <div class="ux">
         <div class="ux-description">

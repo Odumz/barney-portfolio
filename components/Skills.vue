@@ -1,5 +1,5 @@
 <template>
-  <div class="lg:px-40 md:px-20 px-10 text-skin-primary">
+  <div class="lg:px-70 md:px-20 px-10 text-skin-primary">
     <h1 class="text-3xl font-bold">Expertise</h1>
     <div class="grid sm:grid-cols-2 gap-4">
       <div class="links">

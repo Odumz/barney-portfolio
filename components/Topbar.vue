@@ -21,7 +21,7 @@
 
 <style scoped>
   .topbar {
-    @apply md:flex text-skin-primary justify-between items-center lg:mx-40 md:mx-20 mx-10 bg-gray-100 overflow-hidden;
+    @apply md:flex text-skin-primary justify-between items-center lg:mx-70 md:mx-20 mx-10 bg-gray-100 overflow-hidden;
   }
 
   .left-side {

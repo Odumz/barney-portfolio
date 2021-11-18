@@ -56,6 +56,12 @@ module.exports = {
         '7/9': '77.777777778%',
         '8/9': '88.888888889%'
       },
+      padding: {
+        '70': '280px'
+      },
+      margin: {
+        '70': '280px'
+      },
       backgroundColor: {
         skin: {
           primary: withOpacity('--color-primary'),

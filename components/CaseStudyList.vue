@@ -1,9 +1,9 @@
 <template>
-  <div class="text-skin-primary lg:px-40 md:px-20 px-10 py-10 overflow-hidden">
+  <div class="text-skin-primary lg:px-70 md:px-20 px-10 py-10 overflow-hidden">
     <h1 class="text-3xl font-bold">Case Studies</h1>
     <div class="case-study">
       <div v-for="casebrief in cases" :key="casebrief.image" >
-        <div class="case hover:shadow-lg rounded p-3">
+        <div class="case hover:shadow-lg rounded px-3">
           <CaseStudy class="">
             <template #image>
               <img :src="casebrief.image" alt="" class="w-96">
@@ -60,10 +60,10 @@
 
 <style scoped>
   .case-study {
-    @apply grid lg:grid-cols-2 gap-2 my-12 justify-center;
+    @apply grid lg:grid-cols-2 my-12 justify-center;
   }
 
   .case {
-    @apply m-3 grid justify-items-center;
+    @apply md:my-1 my-2 lg:-mx-1 grid justify-items-center;
   }
 </style>
