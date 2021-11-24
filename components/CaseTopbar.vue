@@ -26,15 +26,7 @@
     @apply flex items-center;
   }
 
-  .right-side {
-    @apply -mb-4;
-  }
-
   .logo {
     @apply mr-6;
-  }
-
-  .name {
-    @apply uppercase;
   }
 </style>

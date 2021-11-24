@@ -3,7 +3,7 @@
     <h1 class="text-3xl font-bold">Case Studies</h1>
     <div class="case-study">
       <div v-for="casebrief in cases" :key="casebrief.image" >
-        <div class="case hover:shadow-lg rounded px-2">
+        <div class="case hover:shadow-lg rounded px-3 pb-3">
           <CaseStudy class="">
             <template #image>
               <img :src="casebrief.image" alt="" class="w-96">

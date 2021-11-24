@@ -34,10 +34,6 @@
     text-underline-offset: 0.2em;
   }
 
-
-  .underlined:hover {
-    text-underline-offset: 0.3em;
-  }
   .underlined:hover {
     text-underline-offset: 0.3em;
   }

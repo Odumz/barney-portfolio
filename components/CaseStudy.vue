@@ -1,8 +1,6 @@
 <template>
   <div class="grid overflow-hidden">
     <div class="img-thumb">
-      <!-- <img :src="image.link" alt="image.title"> -->
-      <!-- <svgassets name="taxi" /> -->
       <slot name="image"></slot>
     </div>
     <div class="content">

@@ -56,10 +56,6 @@
   @apply grid items-center justify-center py-5;
 }
 
-.texts {
-  @apply text-justify leading-relaxed py-2;
-}
-
 .challenge {
   @apply flex flex-col lg:flex-row gap-3 items-center;
 }

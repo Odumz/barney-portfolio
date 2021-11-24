@@ -9,7 +9,7 @@
         </div>
         <div class="ux-image">
           <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063763/barney/case-ZuriChat-design_ilpfpw.png" alt="">
-          <p class="text-gray-400 py-3">Creative explorations and early drafts of Notice Board</p>
+          <p class="text-gray-400 py-3 text-sm">Creative explorations and early drafts of Notice Board</p>
         </div>
       </div>
     </div>
@@ -33,30 +33,6 @@
 </template>
 
 <style scoped>
-.info {
-  @apply mb-14;
-}
-
-.info-arch {
-  @apply grid items-center justify-center py-5;
-}
-
-.texts {
-  @apply text-justify leading-relaxed py-2;
-}
-
-.challenge {
-  @apply flex flex-col lg:flex-row gap-3 items-center;
-}
-
-.challenge-description {
-  @apply text-justify py-2 lg:order-1 leading-relaxed w-full lg:w-1/2 pb-10;
-}
-
-.challenge-image {
-  @apply lg:w-1/2 grid justify-items-center;
-}
-
 .ux {
   @apply flex flex-col lg:flex-row items-center my-12 gap-3;
 }
@@ -67,10 +43,6 @@
 
 .ux-image {
   @apply lg:w-1/2 grid justify-items-center;
-}
-
-.challenge-text {
-  @apply leading-relaxed text-justify mb-3;
 }
 
 .take-away {
