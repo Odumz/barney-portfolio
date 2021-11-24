@@ -6,15 +6,18 @@
         <h1 class="text-5xl font-medium mb-6">SB Taxi App</h1>
       </template>
     </ProjectSummary>
-    <brief class="bg-white py-10">
-      <template #text>
-        <p>SB Taxi is attempting to establish itself in Nigeria, and they sought my expertise in designing an efficient way to address issues such as office commute, rising car costs, and dealing with the ever-increasing difficulties of public transportation. SB Taxi was established to address this issue by providing an active carpooling service that is efficient, dependable, and profitable.</p>
-      </template>
-      <template #image>
-        <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063771/barney/case-sbTaxi-App-brief_po6lrk.png" alt="">
-      </template>
-    </brief>
-    <taxi class="bg-white pt-10 pb-32" />
+    <div class="bg-white">
+      <brief class="py-10">
+        <template #text>
+          <p>SB Taxi is attempting to establish itself in Nigeria, and they sought my expertise in designing an efficient way to address issues such as office commute, rising car costs, and dealing with the ever-increasing difficulties of public transportation. SB Taxi was established to address this issue by providing an active carpooling service that is efficient, dependable, and profitable.</p>
+        </template>
+        <template #image>
+          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063771/barney/case-sbTaxi-App-brief_po6lrk.png" alt="">
+        </template>
+      </brief>
+      <taxi class="pt-10 pb-32" />
+      <hoverchat class="hidden md:flex sticky inset-y-1/4 inset-x-10/12 xl:inset-x-18/21" />
+    </div>
   </div>
 </template>
 

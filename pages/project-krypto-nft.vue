@@ -9,17 +9,20 @@
         <span>August, 2021</span>
       </template>
     </ProjectSummary>
-    <brief class="bg-white py-10">
-      <template #text>
-        <p class="pr-12">Create an NFT responsive website with phone and web interfaces where they can pay using cryptocurrency (Etherium to be precise) website for both phone and web interfaces that they would be able to pay with Crypto (Etherium to be precise)</p>
-        <p class="mt-2 pr-12">They had a reference website and wanted it to look exactly like it with just a few color changes.</p>
-      </template>
-      <template #image>
-        <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063765/barney/case-KryptoNFT-brief_uykowk.png" alt="" class="mt-10">
-      </template>
-    </brief>
-    <krypto class="bg-white pt-10 lg:pb-32 md:pb-24 pb-10" />
-    <krypto-footer />
+    <div class="bg-white">
+      <brief class="py-10">
+        <template #text>
+          <p class="pr-12">Create an NFT responsive website with phone and web interfaces where they can pay using cryptocurrency (Etherium to be precise) website for both phone and web interfaces that they would be able to pay with Crypto (Etherium to be precise)</p>
+          <p class="mt-2 pr-12">They had a reference website and wanted it to look exactly like it with just a few color changes.</p>
+        </template>
+        <template #image>
+          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063765/barney/case-KryptoNFT-brief_uykowk.png" alt="" class="mt-10">
+        </template>
+      </brief>
+      <krypto class="pt-10" />
+      <hoverchat class="hidden md:flex sticky inset-y-1/4 inset-x-10/12 xl:inset-x-18/21" />
+      <krypto-footer />
+    </div>
   </div>
 </template>
 

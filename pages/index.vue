@@ -2,9 +2,11 @@
   <div class="fontface bg-gray-100">
     <Topbar class="pt-14" />
     <Intro class="my-7" />
-    <!-- <Tutorial/> -->
-    <CaseStudyList class="bg-white" />
-    <Outreach class="bg-white" />
+    <div class="bg-white">
+      <CaseStudyList />
+      <Outreach />
+      <hoverchat class="hidden md:flex sticky inset-y-1/4 inset-x-10/12 xl:inset-x-18/21" />
+    </div>
   </div>
 </template>
 

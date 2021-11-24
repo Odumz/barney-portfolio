@@ -1,5 +1,5 @@
 <template>
-  <div class="lg:px-70 md:px-20 px-10 text-skin-primary overflow-hidden">
+  <div class="xl:px-70 lg:px-36 md:px-20 px-10 text-skin-primary overflow-hidden">
     <h1 class="text-3xl font-bold pt-10">The Brief</h1>
     <div class="brief">
       <div class="description">

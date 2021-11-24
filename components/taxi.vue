@@ -1,5 +1,5 @@
 <template>
-  <div class="lg:px-70 md:px-20 px-10 text-skin-primary">
+  <div class="xl:px-70 lg:px-36 md:px-20 px-10 text-skin-primary">
     <div class="info">
       <h1 class="text-3xl font-bold">Informational Architecture</h1>
       <div class="info-arch">

@@ -2,10 +2,12 @@
   <div class="fontface bg-gray-100">
     <CaseTopbar class="pt-14" />
     <CaseSummary class="mt-7 mb-16" />
-    <!-- <Tutorial/> -->
-    <Experience class="bg-white pb-7" />
-    <Bio class="bg-white py-10" />
-    <Skills class="bg-white py-10 pb-28" />
+    <div class="bg-white">
+      <Experience class="pb-7" />
+      <Bio class="py-10" />
+      <Skills class="py-10 pb-28" />
+      <hoverchat class="hidden md:flex sticky inset-y-1/4 inset-x-10/12 xl:inset-x-18/21" />
+    </div>
   </div>
 </template>
 

@@ -19,7 +19,7 @@
 
 <style scoped>
   .topbar {
-    @apply flex justify-between items-center lg:mx-70 md:mx-20 mx-10;
+    @apply flex justify-between items-center xl:mx-70 lg:mx-36 md:mx-20 mx-10;
   }
 
   .left-side {

@@ -1,5 +1,5 @@
 <template>
-  <div class="lg:px-70 md:px-20 px-10 text-skin-primary">
+  <div class="xl:px-70 lg:px-36 md:px-20 px-10 text-skin-primary">
     <div class="user-exp">
       <div class="ux">
         <div class="ux-description">
@@ -20,12 +20,12 @@
     <div class="pt-10">
       <div class="ux">
         <div class="ux-image">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063767/barney/case-ZuriChat-originalview_aczmyk.png" alt="">
-          <p class="text-gray-400 py-3">Original View</p>
+          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063767/barney/case-ZuriChat-originalview_aczmyk.png" alt="" class="transform scale-105">
+          <p class="text-gray-400 py-3 text-sm">Original View</p>
         </div>
         <div class="ux-image">
           <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063769/barney/case-ZuriChat-darkmode_wstoyc.png" alt="">
-          <p class="text-gray-400 py-3">Dark Mode</p>
+          <p class="text-gray-400 py-3 text-sm">Dark Mode</p>
         </div>
       </div>
     </div>
@@ -34,11 +34,11 @@
 
 <style scoped>
 .ux {
-  @apply flex flex-col lg:flex-row items-center my-12 gap-3;
+  @apply flex flex-col lg:flex-row items-center mt-10 mb-12 gap-3;
 }
 
 .ux-description {
-  @apply text-justify py-2 leading-relaxed w-full lg:w-1/2 pb-10;
+  @apply text-justify py-2 leading-relaxed w-full lg:w-1/2;
 }
 
 .ux-image {

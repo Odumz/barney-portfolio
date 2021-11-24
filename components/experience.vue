@@ -1,5 +1,5 @@
 <template>
-  <div class="text-skin-primary lg:px-70 md:px-20 px-10 pt-20">
+  <div class="text-skin-primary xl:px-70 lg:px-36 md:px-20 px-10 pt-20">
     <h1 class="text-3xl font-bold">Experience</h1>
     <div class="md:grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-y-4 mt-3">
       <div class="resume">
