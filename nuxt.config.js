@@ -63,7 +63,8 @@ export default {
     '@nuxtjs/eslint-module',
     // https://go.nuxtjs.dev/tailwindcss
     '@nuxtjs/tailwindcss',
-    'nuxt-gsap-module'
+    'nuxt-gsap-module',
+    '@nuxtjs/google-analytics'
   ],
   // Add global page transition
   pageTransition: {
@@ -93,6 +94,21 @@ export default {
         ease: 'power2.inOut',
         onComplete: done
       })
+    }
+  },
+
+  googleAnalytics: {
+    id: process.env.GOOGLE_ANALYTICS_ID
+  },
+
+  publicRuntimeConfig: {
+    googleAnalytics: {
+      id: process.env.GOOGLE_ANALYTICS_ID,
+      disableScriptLoader: true,
+      autoTracking: {
+        screenview: true,
+        events: true
+      }
     }
   },
 
