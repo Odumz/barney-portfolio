@@ -20,7 +20,7 @@
     </div>
     <div class="user-exp">
       <div class="ux">
-        <div class="ux-description">
+        <div class="ux-description lg:mr-5">
           <h1 class="text-3xl font-bold my-2">User Experience</h1>
           <p class="user-exp-text">I was expected to come up with an effective solution to make things easier for the User and to improve the User experience. As a result, I used a GPS-based design to allow the user know about and book the car conveniently, as well as manage their booking.</p>
         </div>
@@ -34,7 +34,7 @@
           <p class="user-exp-text">The app's main goal was to provide a more dynamic, seamless digital riding experience. That meant I had to reevaluate how taxis were typically contacted. The selection of car features, where users could actively decide the quality of assistance they wanted, was one of the areas where I had to fully redesign.</p>
           <p class="user-exp-text">I was able to optimize the UX for adding a card and a wallet feature by making simple changes and adding a few features, such as sharing a ride with other users, allowing users to see the call feature, and personalised text feature and the feedback was remarkable.</p>
         </div>
-        <div class="ux-image">
+        <div class="ux-image -mr-20">
           <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063779/barney/case-sbTaxi-App-iPhonethree_nfrumf.png" alt="">
           <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063773/barney/case-sbTaxi-App-iPhonefour_umzi3q.png" alt="" class="w-5/6 mb-3 md:-ml-28 -ml-16">
         </div>
