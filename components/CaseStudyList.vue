@@ -6,7 +6,7 @@
         <div class="case hover:shadow-lg rounded px-3 pb-3">
           <CaseStudy class="">
             <template #image>
-              <img :src="casebrief.image" alt="" class="w-96">
+              <img :src="casebrief.image" :alt="casebrief.description" loading="lazy" class="w-96">
             </template>
             <template #title>
               <nuxt-link :to="{ path: casebrief.link }">
@@ -30,25 +30,25 @@
       return {
         cases: [
           {
-            image: 'https://res.cloudinary.com/griffintech/image/upload/v1637169953/barney/sbtaxiapp_1_1_bk4ijm.png',
+            image: 'https://res.cloudinary.com/odumz/image/upload/v1666509836/projects/barney/sbtaxiapp_zeh6p8.png',
             title: 'SB Taxi App',
             link: 'project-sb-taxi',
             description: 'Creating a Nigerian Taxi Experience'
           },
           {
-            image: 'https://res.cloudinary.com/griffintech/image/upload/v1637169953/barney/kryptonft_1_cm09z7.png',
+            image: 'https://res.cloudinary.com/odumz/image/upload/v1666509862/projects/barney/kryptonft_wib9nm.png',
             title: 'Krypto NFT Web',
             link: 'project-krypto-nft',
             description: 'Designing a NFT website'
           },
           {
-            image: 'https://res.cloudinary.com/griffintech/image/upload/v1637167446/barney/zurichat_s8c2dz.png',
+            image: 'https://res.cloudinary.com/odumz/image/upload/v1666509804/projects/barney/case-ZuriChat_u8x9i9.png',
             title: 'Zuri Chat',
             link: 'project-zuri-chat',
             description: 'A fully integrated way to connect and interact'
           },
           {
-            image: 'https://res.cloudinary.com/griffintech/image/upload/v1637167447/barney/loading_yjnv43.png',
+            image: 'https://res.cloudinary.com/odumz/image/upload/v1666509877/projects/barney/loading_beq1qf.png',
             title: 'Coming soon...',
             description: 'Adding more awesome projects in the future.'
           }

@@ -8,23 +8,23 @@
           <p>We collaborated with other product designers and worked in a variety of teams to build the app. Approximately 250 individuals worked on the project, including backend, frontend, UI/UX, DevOps, product managers, and so on.</p>
         </div>
         <div class="design-image">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063763/barney/case-ZuriChat-design_ilpfpw.png" alt="" class="">
+          <img src="https://res.cloudinary.com/odumz/image/upload/v1666509813/projects/barney/case-ZuriChat-design_cfl19o.png" alt="ZuriChat design" class="" loading="lazy">
           <p class="text-gray-400 py-3 text-sm">Creative explorations and early drafts of Notice Board</p>
         </div>
       </div>
     </div>
     <div class="take-away">
-      <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063767/barney/case-ZuriChat-logo_v1bamc.png" alt="" class="md:w-3/7 w-5/7">
+      <img src="https://res.cloudinary.com/odumz/image/upload/v1666509813/projects/barney/case-ZuriChat-logo_bomgnz.png" alt="ZuriChat logo" class="md:w-3/7 w-5/7" loading="lazy">
       <p class="take-away-text md:pl-4">Final Logo Design</p>
     </div>
     <div class="pt-10">
       <div class="design">
         <div class="design-image">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063767/barney/case-ZuriChat-originalview_aczmyk.png" alt="" class="transform scale-105">
+          <img src="https://res.cloudinary.com/odumz/image/upload/v1666509832/projects/barney/case-ZuriChat-originalview_kjobtt.png" alt="ZuriChat original view" class="transform scale-105" loading="lazy">
           <p class="text-gray-400 py-3 text-sm">Original View</p>
         </div>
         <div class="design-image">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063769/barney/case-ZuriChat-darkmode_wstoyc.png" alt="">
+          <img src="https://res.cloudinary.com/odumz/image/upload/v1666509810/projects/barney/case-ZuriChat-darkmode_uliz72.png" alt="ZuriChat darkmode" loading="lazy">
           <p class="text-gray-400 py-3 text-sm">Dark Mode</p>
         </div>
       </div>

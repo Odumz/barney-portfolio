@@ -13,7 +13,7 @@
           <p class="mt-2">The client desired a simple, slick, and memorable identity that reflected their ideals and could be scaled adequately for marketing collateral and clients.</p>
         </template>
         <template #image>
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063762/barney/case-ZuriChat-brief_hqdgn3.png" alt="" class="my-auto">
+          <img src="https://res.cloudinary.com/odumz/image/upload/v1666509809/projects/barney/case-ZuriChat-brief_tkxzwv.png" alt="case Zuri chat - brief" loading="lazy" class="my-auto">
         </template>
       </brief>
       <chat class="pb-32" />

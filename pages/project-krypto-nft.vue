@@ -16,7 +16,7 @@
           <p class="mt-2 pr-12">They had a reference website and wanted it to look exactly like it with just a few color changes.</p>
         </template>
         <template #image>
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063765/barney/case-KryptoNFT-brief_uykowk.png" alt="" class="mt-10">
+          <img src="https://res.cloudinary.com/odumz/image/upload/v1666509780/projects/barney/case-KryptoNFT-brief_ioafvk.png" alt="case Kryptonft - brief" loading="lazy" class="mt-10">
         </template>
       </brief>
       <krypto class="pt-10" />

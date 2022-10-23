@@ -3,13 +3,13 @@
     <div class="">
       <div class="">
         <NuxtLink to="/" class="flex items-center uppercase mb-4 text-sm">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637173284/barney/back-arrow-white_ozll4c.png" class="w-1/7" alt=""><span class="pl-3"> Back</span>
+          <img src="https://res.cloudinary.com/odumz/image/upload/v1666509641/projects/barney/back-arrow-white_dgtyoc.png" class="w-1/7" alt="go back" loading="lazy"><span class="pl-3"> Back</span>
         </NuxtLink>
       </div>
       <div class="left-side">
         <div class="logo">
           <NuxtLink to="/" class="flex items-center uppercase mb-4 text-sm">
-            <img src="https://res.cloudinary.com/griffintech/image/upload/v1637173284/barney/barneys-logo-white_qd3syg.png" alt="" class="w-16">
+            <img src="https://res.cloudinary.com/odumz/image/upload/v1666509642/projects/barney/barneys-logo-white_xfmzhr.png" alt="barney logo - white" loading="lazy" class="w-16">
           </NuxtLink>
         </div>
       </div>

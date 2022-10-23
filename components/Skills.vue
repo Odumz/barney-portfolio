@@ -5,13 +5,13 @@
       <div class="links">
         <ul class="my-3">
           <li class="mb-3">
-            <a href="https://www.behance.net/barnabasina9e5" target="_blank" class="underlined">Behance</a>
+            <a href="https://www.behance.net/barnabasina9e5" target="_blank" rel="nofollow" class="underlined">Behance</a>
           </li>
           <li class="my-3">
-            <a href="https://dribbble.com/baneyzinsane" target="_blank" class="underlined">Dribble</a>
+            <a href="https://dribbble.com/baneyzinsane" target="_blank" rel="nofollow" class="underlined">Dribble</a>
           </li>
           <li class="my-3">
-            <a href="https://www.instagram.com/barneyzinsane/" target="_blank" class="underlined">Instagram</a>
+            <a href="https://www.instagram.com/barneyzinsane/" target="_blank" rel="nofollow" class="underlined">Instagram</a>
           </li>
         </ul>
       </div>

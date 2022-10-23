@@ -3,8 +3,8 @@
     <h1 class="text-3xl font-bold">Experience</h1>
     <div class="md:grid grid-cols-2 md:grid-cols-3 lg:grid-cols-5 gap-y-4 mt-3">
       <div class="resume">
-        <a href="https://www.linkedin.com/in/inyangsam-barnabas-47258198" target="_blank" class="links underlined">Visit LinkedIn</a>
-        <a href="https://drive.google.com/file/d/1eIUZtGIGdJgnIeCNN5JTPiKsd7bL6Lux/view?usp=drivesdk" target="_blank" class="links underlined">View Resume</a>
+        <a href="https://www.linkedin.com/in/inyangsam-barnabas-47258198" target="_blank" rel="nofollow" class="links underlined">Visit LinkedIn</a>
+        <a href="https://drive.google.com/file/d/1eIUZtGIGdJgnIeCNN5JTPiKsd7bL6Lux/view?usp=drivesdk" target="_blank" rel="nofollow" class="links underlined">View Resume</a>
       </div>
       <div class="history">
         <p class="title">UI/UX Designer</p>

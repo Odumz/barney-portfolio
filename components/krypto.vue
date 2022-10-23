@@ -9,7 +9,7 @@
           <p class="design-text">I was able to develop a website design that felt both unique and familiar by opting for a dark, futuristic tone.</p>
         </div>
         <div class="design-image ">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063770/barney/case-KryptoNFT-DarkTheme_1_f3relb.png" alt="" class="rounded pr-10">
+          <img src="https://res.cloudinary.com/odumz/image/upload/v1666509796/projects/barney/case-KryptoNFT-DarkTheme_ikcthq.png" alt="barney-case - kryptonft darktheme" class="rounded pr-10" loading="lazy">
         </div>
       </div>
     </div>
@@ -21,7 +21,7 @@
           <p class="user-exp-text">The customer is almost always right, and having a direction makes work a lot easier. It was a fantastic project to work on, and I would do it again and again.</p>
         </div>
         <div class="design-image">
-          <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063765/barney/case-KryptoNFT-keytakeaway_eazs2y.png" alt="" class="rounded pl-5">
+          <img src="https://res.cloudinary.com/odumz/image/upload/v1666509792/projects/barney/case-KryptoNFT-keytakeaway_vhf8k1.png" alt="barney-case - kryptonft key take away" class="rounded pl-5" loading="lazy">
         </div>
       </div>
     </div>

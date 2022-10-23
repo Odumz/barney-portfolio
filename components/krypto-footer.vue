@@ -2,7 +2,7 @@
   <div class="bg-skin-tertiary">
     <div class="">
       <div class="info-arch">
-        <img src="https://res.cloudinary.com/griffintech/image/upload/v1637063805/barney/case-KryptoNFT-footer_1_johxuh.png" alt="">
+        <img src="https://res.cloudinary.com/odumz/image/upload/v1666509833/projects/barney/case-KryptoNFT-footer_acejbt.png" alt="barney-case - kryptonft footer" loading="lazy">
       </div>
     </div>
   </div>
